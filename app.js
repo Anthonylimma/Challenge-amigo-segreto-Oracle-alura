@@ -40,6 +40,6 @@ function limparLista() {
     amigos = []; 
     atualizarLista(); 
 
-    let resultadoElemento = document.getElementById('resultado');
+    let resultadoElemento = document.getElementById("resultado");
     resultadoElemento.innerHTML = "";
 }
