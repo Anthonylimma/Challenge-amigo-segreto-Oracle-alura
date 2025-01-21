@@ -4,8 +4,6 @@
 
 Este projeto foi desenvolvido como parte do curso **One Oracle** com a **Alura**, onde você pode sortear um nome aleatório para o amigo secreto.
 
-Este projeto foi desenvolvido como parte do curso **One Oracle** junto com a **Alura**.
-
 ## Funcionalidades
 
 - **Adicionar amigos**
