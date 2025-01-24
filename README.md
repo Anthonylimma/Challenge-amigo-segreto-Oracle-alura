@@ -15,7 +15,8 @@ Este projeto foi desenvolvido como parte do curso **One Oracle** com a **Alura**
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização da página.
 - **JavaScript**: Funcionalidades da aplicação.
-- ![Meu logotipo](assets/imagem.png)
+## 
+ ![Imagem](assets/imagem.png)
 
   
 
